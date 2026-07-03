@@ -1,197 +1,77 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Ankur Raj | DevOps & Cloud Engineer</title>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=220&section=header&text=Ankur%20Raj&fontSize=42&fontColor=ffffff&desc=DevOps%20%7C%20Cloud%20Engineer%20(Beginner)&descSize=18&descAlignY=65)
 
-  <style>
-    * {
-      margin: 0;
-      padding: 0;
-      box-sizing: border-box;
-      font-family: "Segoe UI", Tahoma, sans-serif;
-    }
+---
 
-    body {
-      background-color: #0f172a;
-      color: #e5e7eb;
-      line-height: 1.6;
-    }
+## 👋 Hi, I'm Ankur Raj
 
-    a {
-      color: #38bdf8;
-      text-decoration: none;
-    }
+🎓 **Student** | 🌩️ **DevOps & Cloud Engineer (Beginner)**  
+📍 India  
 
-    header {
-      background: linear-gradient(135deg, #1e3a8a, #020617);
-      padding: 70px 20px;
-      text-align: center;
-    }
+I am a passionate learner exploring **Web Development, DevOps, Cloud Computing, DSA, and AI**.  
+Currently building strong fundamentals and hands-on skills through projects and practice.
 
-    header h1 {
-      font-size: 2.8rem;
-    }
+---
 
-    header h2 {
-      font-weight: 400;
-      margin-top: 10px;
-      color: #cbd5f5;
-    }
+## 🧠 Tech Stack
 
-    header p {
-      margin-top: 15px;
-      color: #94a3b8;
-    }
+### 💻 Programming Languages
+![Languages](https://skillicons.dev/icons?i=c,cpp,js)
 
-    section {
-      max-width: 1000px;
-      margin: auto;
-      padding: 60px 20px;
-    }
+### 🎨 Frontend
+![Frontend](https://skillicons.dev/icons?i=html,css,js)
 
-    h3 {
-      font-size: 1.8rem;
-      margin-bottom: 25px;
-      border-left: 5px solid #38bdf8;
-      padding-left: 12px;
-    }
+### 🗄️ Database
+![Database](https://skillicons.dev/icons?i=mysql)
 
-    .grid {
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
-      gap: 20px;
-    }
+### ⚙️ DevOps & Tools
+![DevOps](https://skillicons.dev/icons?i=git,github,docker,linux)
 
-    .card {
-      background: #020617;
-      border: 1px solid #1e293b;
-      padding: 20px;
-      border-radius: 10px;
-    }
+---
 
-    .card h4 {
-      margin-bottom: 10px;
-      color: #38bdf8;
-    }
+## ☁️ Areas of Interest
 
-    ul {
-      padding-left: 20px;
-    }
+- 🌐 Web Development  
+- ⚙️ DevOps Engineering  
+- ☁️ Cloud Computing  
+- 📊 Data Structures & Algorithms (DSA)  
+- 🤖 Artificial Intelligence  
 
-    footer {
-      background: #020617;
-      text-align: center;
-      padding: 30px;
-      color: #94a3b8;
-      font-size: 0.9rem;
-    }
+---
 
-    .contact p {
-      margin: 8px 0;
-    }
+## 📊 GitHub Analytics
 
-    .btn {
-      display: inline-block;
-      margin-top: 15px;
-      padding: 10px 18px;
-      border-radius: 6px;
-      background: #38bdf8;
-      color: #020617;
-      font-weight: 600;
-    }
-  </style>
-</head>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ankur2905&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=ankur2905&theme=tokyonight&hide_border=true" width="48%" />
+</p>
 
-<body>
+---
 
-<header>
-  <h1>Ankur Raj</h1>
-  <h2>DevOps Engineer & Cloud Engineer (Beginner)</h2>
-  <p>Student | India</p>
-</header>
+## 🚀 Learning Goals (2025)
 
-<section>
-  <h3>👨‍💻 About Me</h3>
-  <p>
-    I am a passionate student learning <strong>DevOps, Cloud Computing, and Web Development</strong>.
-    I enjoy working with Linux environments, containerization tools, and version control systems.
-    My goal is to become a skilled DevOps engineer by building real-world projects and mastering cloud technologies.
-  </p>
-</section>
+- Build real-world DevOps projects  
+- Master Docker & Linux  
+- Learn Cloud services (AWS fundamentals)  
+- Strengthen DSA for problem-solving  
+- Explore AI & automation  
 
-<section>
-  <h3>🧠 Skills</h3>
-  <div class="grid">
-    <div class="card">
-      <h4>Programming</h4>
-      <ul>
-        <li>C++</li>
-        <li>JavaScript</li>
-      </ul>
-    </div>
+---
 
-    <div class="card">
-      <h4>Frontend</h4>
-      <ul>
-        <li>HTML</li>
-        <li>CSS</li>
-        <li>JavaScript</li>
-      </ul>
-    </div>
+## 🌐 Portfolio
+🔗 https://ank2905.github.io/My-portfolio
 
-    <div class="card">
-      <h4>Database</h4>
-      <ul>
-        <li>MySQL</li>
-      </ul>
-    </div>
+---
 
-    <div class="card">
-      <h4>DevOps & Tools</h4>
-      <ul>
-        <li>Git & GitHub</li>
-        <li>Docker</li>
-        <li>Linux</li>
-      </ul>
-    </div>
-  </div>
-</section>
+## 📫 Contact Me
 
-<section>
-  <h3>☁️ Areas of Interest</h3>
-  <div class="grid">
-    <div class="card">Web Development</div>
-    <div class="card">DevOps Engineering</div>
-    <div class="card">Cloud Computing</div>
-    <div class="card">Data Structures & Algorithms</div>
-    <div class="card">Artificial Intelligence</div>
-  </div>
-</section>
+- 📧 Email: akurrraj@gmail.com  
+- 💼 Portfolio: https://ank2905.github.io/My-portfolio  
 
-<section>
-  <h3>🚀 Projects</h3>
-  <div class="card">
-    <p>
-      Currently building hands-on projects in <strong>Web Development, Docker, and Linux</strong>.
-      More real-world DevOps and cloud projects will be added soon.
-    </p>
-  </div>
-</section>
+---
 
-<section class="contact">
-  <h3>📫 Contact</h3>
-  <p>📧 Email: <a href="mailto:akurrraj@gmail.com">akurrraj@gmail.com</a></p>
-  <p>🌐 Portfolio: <a href="https://ank2905.github.io/My-portfolio" target="_blank">ank2905.github.io/My-portfolio</a></p>
-  <p>🐙 GitHub: <a href="https://github.com/ankur2905" target="_blank">github.com/ankur2905</a></p>
+## ⚡ Quote I Believe In
+> *"Learning never exhausts the mind."*
 
-  <a class="btn" href="https://github.com/ankur2905" target="_blank">View GitHub</a>
-</section>
+---
 
-<footer>
-  © 2026 Ankur Raj • DevOps & Cloud Engineer (Beginner)
-</footer>
-
-</body>
-</html>
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:2a5298,100:1e3c72&height=120&section=footer)
